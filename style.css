@@ -1,0 +1,21 @@
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.inputSection{
+    background-color:rgb(214, 214, 214);
+
+border:rgb(71, 131, 243) solid 2px;
+
+}
+.resultSection {
+    background-color:rgb(71, 131, 243);
+    border: rgb(71, 131, 243) solid 2px;
+  
+}
+
+.convertBtn{
+    background-color:rgb(71, 131, 243);
+    border:rgb(71, 131, 243) solid 2px;
+}
